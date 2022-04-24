@@ -24,7 +24,7 @@ Create a Agenda app managing with Firebase ,a seamless, high-performing app .Man
 
 ## Download Now 
 
-- [Scan Text](https://mega.nz/file/SvIgRBgD#rnzfZmZNdxm49qAyQMZfcG6OqY_M6-nUIXXpfwpJziU)
+- [Agenda](Agenda.apk)
 
 ## ScreenShots
 
