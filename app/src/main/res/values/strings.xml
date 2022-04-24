@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="addicon">icon_button</string>
+    <string name="Agenda">AGENDA</string>
+    <string name="save_button">Save</string>
+    <string name="write_your_task_here">Write Your Task Here ...</string>
+    <string name="set_due_date">Set Due Date</string>
+    <string name="mic_icon">mic</string>
+    <string name="mic_but">micc</string>
+    <string name="this_is_task_1">This is task 1</string>
+    <string name="date">31-03-2022</string>
+    <string name="text_task">this is task 1</string>
+    <string name="Sign_in">Sign in</string>
+</resources>
