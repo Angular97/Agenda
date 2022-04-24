@@ -7,6 +7,7 @@ Create a Agenda app managing with Firebase ,a seamless, high-performing app .Man
 - Update, Delete and Complete actions for Todo List Item.
 - Support voice to text features
 - User can check or uncheck the task after completing
+- Provide Swipe Features so u can delete or edit your Task.
   
 ## Libraries
 - [Recycler View Swipe Decorator](https://github.com/xabaras/RecyclerViewSwipeDecorator): providing the swipe features so we can easily delete & edit the task
